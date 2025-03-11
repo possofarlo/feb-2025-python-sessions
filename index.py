@@ -4,3 +4,6 @@ print(number2)
 print("hello world")
 #datatypes
 myname="Denzel siaji"
+
+languages = ["python","java","c++","c#"]
+print(languages)
